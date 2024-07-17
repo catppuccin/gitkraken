@@ -27,7 +27,7 @@ To reprocess the jsonc files :
 
 - Download and install [Whiskers](https://github.com/catppuccin/whiskers)
 - Download this project and unzip it somewhere
-- Run `whiskers gitkraken.tera`
+- Run `whiskers gitkraken.tera` in the root of the project
 
 Once this is done, the jsonc files in the `./themes` folder will be ready to be used as described in section "Installation"
 
