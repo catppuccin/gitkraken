@@ -1,38 +1,62 @@
-![alt](./assets/banner.png)
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin for <a href="https://www.gitkraken.com/">GitKraken</a>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
-# Catppuccin Theme for GitKraken
+<p align="center">
+	<a href="https://github.com/Askerad/catppuccin-gitkraken-theme/stargazers"><img src="https://img.shields.io/github/stars/Askerad/catppuccin-gitkraken-theme?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/Askerad/catppuccin-gitkraken-theme/issues"><img src="https://img.shields.io/github/issues/Askerad/catppuccin-gitkraken-theme?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/Askerad/catppuccin-gitkraken-theme/contributors"><img src="https://img.shields.io/github/contributors/Askerad/catppuccin-gitkraken-theme?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
 
-Quick and dirty catppuccin theme for GitKraken 🤷
+<p align="center">
+	<img src="assets/preview.webp"/>
+</p>
 
-## Theme Support
+## Previews
 
-- ✅ Latte
-- ✅ Frappe
-- ✅ Macchiato
-- ✅ Mocha
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/latte.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.webp"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.webp"/>
+</details>
 
-## Installation
+## Usage
 
-Obtain the .jsonc files from the release tab. If you want to recompile the asset files in order to add your own color overrides, please check the "Compiling" section.
+1. Download your preferred flavor from the [themes](themes/) directory.
+2. Copy the `.jsonc` theme file into your GitKraken Theme directory.
+  - On Windows it’s usually located at `%appdata%/.gitkraken/themes`
+  - While on Unix-based systems it’s located at `~/.gitkraken/themes`
+3. In GitKraken, go to Settings → UI Customization → Theme and select the newly added theme.
 
-Copy the Jsonc theme files you want into your GitKraken Theme directory, and Voila ! the themes are availablie in the preferences.
+## 💝 Thanks to
 
-_You can find your GitKraken Theme directory by going into your GitKraken Preferences in the UI Customization menu, on Windows it usually is `%appdata%/.gitkraken/themes`_
+- [Askerad](https://github.com/Askerad)
+- [Paracetamol56](https://github.com/Paracetamol56)
 
-## Compiling
+&nbsp;
 
-This project uses the [Whiskers](https://github.com/catppuccin/whiskers) templating engine starting from 1.0.0. This enables you to add your own color overrides if needed.
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
 
-To reprocess the jsonc files :
+<p align="center">
+	Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
+</p>
 
-- Download and install [Whiskers](https://github.com/catppuccin/whiskers)
-- Download this project and unzip it somewhere
-- Run `whiskers gitkraken.tera` in the root of the project
-
-Once this is done, the jsonc files in the `./themes` folder will be ready to be used as described in section "Installation"
-
-## Contributors
-
-@askerad
-
-@Paracetamol56
+<p align="center">
+	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
