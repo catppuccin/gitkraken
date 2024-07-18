@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/gitkraken/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/gitkraken?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/gitkraken/issues"><img src="https://img.shields.io/github/issues/catppuccin/gitkraken?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/gitkraken/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/gitkraken?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/Askerad/catppuccin-gitkraken-theme/stargazers"><img src="https://img.shields.io/github/stars/Askerad/catppuccin-gitkraken-theme?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/Askerad/catppuccin-gitkraken-theme/issues"><img src="https://img.shields.io/github/issues/Askerad/catppuccin-gitkraken-theme?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/Askerad/catppuccin-gitkraken-theme/contributors"><img src="https://img.shields.io/github/contributors/Askerad/catppuccin-gitkraken-theme?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
