@@ -37,9 +37,7 @@
 ## Usage
 
 1. Download your preferred flavor from the [themes](themes/) directory.
-2. Copy the `.jsonc` theme file into your GitKraken Theme directory.
-  - On Windows it’s usually located at `%appdata%/.gitkraken/themes`
-  - While on Unix-based systems it’s located at `~/.gitkraken/themes`
+2. Copy the `.jsonc` theme file into your GitKraken Theme directory (Refer to the [GitKraken documentation](https://help.gitkraken.com/gitkraken-desktop/themes/#custom-themes) about custom themes).
 3. In GitKraken, go to Settings → UI Customization → Theme and select the newly added theme.
 
 ## 💝 Thanks to
